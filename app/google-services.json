@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "915721925737",
+    "firebase_url": "https://openbox-5e25b-default-rtdb.firebaseio.com",
+    "project_id": "openbox-5e25b",
+    "storage_bucket": "openbox-5e25b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915721925737:android:6a16e423dc39e6ee9fdef8",
+        "android_client_info": {
+          "package_name": "com.example.openbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-HafEe_cs3mP9PjFcg_53BY-dU5KoFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

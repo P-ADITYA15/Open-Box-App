@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Open box</string>
+    <string name="default_message">Hello, World!</string>
+    <string name="edittext_hint">Enter a message</string>
+    <string name="firebase_message">Firebase says: %1$s</string>
+    <string name="firebase_error">Error: %1$s</string>
+</resources>
